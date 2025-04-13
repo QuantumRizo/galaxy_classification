@@ -11,13 +11,18 @@ We apply **1D Convolutional Neural Networks (CNNs)** to analyze galaxy spectra i
 
 ```
 galaxy_classifier/
-├── data/           # Contains the FITS files with galaxy spectral data
-│   └── fits/       # Subdirectories for AGN and Starburst FITS files
-├── models/         # Saved models after training
-├── images/         # Plots and visualizations (e.g., training curves, confusion matrices)
-├── src/            # Source code and Jupyter Notebooks for preprocessing and training
-├── requirements.txt
-└── README.md
+├── data/                           # FITS files with galaxy spectral data
+├── src/                            # Source code and preprocessing scripts
+│   ├── data_preprocessing.py       # Data preprocessing script
+│   ├── data_preprocessing_utils.py # Helper functions for data preprocessing
+│   ├── evaluation_and_visualization.py # Evaluation and visualization script
+│   ├── prepare_data.py             # Script for data preparation
+│   ├── training_model.py           # Model training script
+├── confusion_matrix.png            # Confusion matrix visualization
+├── notebook.ipynb                  # Jupyter Notebook for exploration and model testing
+├── training_accuracy_loss.png      # Training accuracy and loss curves
+├── requirements.txt                # List of required dependencies
+└── README.md                       # Project documentation
 ```
 
 ---
