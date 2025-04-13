@@ -1,4 +1,6 @@
 # 🌌 Starburst and AGN galaxy Classification Using Deep Learning
+## Author
+This project was created by [Félix David Rizo Serrano](LinkedIn: Felix David Rizo Serrano).
 
 This project focuses on the **automatic classification of galaxies** into two types:  
 **AGN (Active Galactic Nuclei)** and **Starburst galaxies**, using spectroscopic data from the **Sloan Digital Sky Survey (SDSS)**.
