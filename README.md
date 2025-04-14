@@ -1,4 +1,15 @@
 # 🌌 Starburst and AGN galaxy Classification Using Deep Learning
+
+<div align="center">
+
+<img src="https://www.cfa.harvard.edu/sites/default/files/styles/max_650x650/public/2019-04/StarburstGalaxies_2.jpg?itok=dbXcfd18" alt="Starburst Galaxy" width="45%" />
+<img src="https://cdn.eso.org/images/screen/eso0903a.jpg" alt="AGN Galaxy" width="45%" />
+
+</div>
+
+<p align="center">
+<em>Left: Starburst Galaxy (CfA / Harvard-Smithsonian) — Right: AGN Galaxy (ESO)</em>
+</p>
 ## Author
 This project was created by [Félix David Rizo Serrano](LinkedIn: Felix David Rizo Serrano).
 
@@ -85,5 +96,8 @@ pip install -r requirements.txt
 
 ## 🤝 Acknowledgments
 
-- Sloan Digital Sky Survey (SDSS)
-- Astropy and other scientific Python ecosystem tools
+- This project was carried out as part of a **Social Service** program at the **Instituto de Astronomía, Universidad Nacional Autónoma de México (UNAM)**.
+- Supervised by **Dr. José Antonio de Diego Onsurbe**.
+- Based on data from the **Sloan Digital Sky Survey (SDSS)**.
+- Built with the support of the **Astropy** ecosystem and other scientific Python libraries.
+
