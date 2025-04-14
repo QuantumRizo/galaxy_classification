@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://www.cfa.harvard.edu/sites/default/files/styles/max_650x650/public/2019-04/StarburstGalaxies_2.jpg?itok=dbXcfd18" alt="Starburst Galaxy" width="45%" />
+<img src="[https://www.cfa.harvard.edu/sites/default/files/styles/max_650x650/public/2019-04/StarburstGalaxies_2.jpg?itok=dbXcfd18](https://upload.wikimedia.org/wikipedia/commons/f/f6/Antennae_galaxies_xl.jpg)" alt="Starburst Galaxy" width="45%" />
 <img src="https://cdn.eso.org/images/screen/eso0903a.jpg" alt="AGN Galaxy" width="45%" />
 
 </div>
 
 <p align="center">
-<em>Left: Starburst Galaxy (CfA / Harvard-Smithsonian) — Right: AGN Galaxy (ESO)</em>
+<em>Left: Starburst Galaxy (Image credit: NASA/ESA via Wikimedia Commons) — Right: AGN Galaxy (ESO)</em>
 </p>
 ## Author
 This project was created by [Félix David Rizo Serrano](LinkedIn: Felix David Rizo Serrano).
